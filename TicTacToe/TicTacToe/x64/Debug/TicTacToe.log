@@ -1,0 +1,3 @@
+﻿  TicTacToe.cpp
+D:\Microsoft Visual Studio\projekty\TicTacToe\TicTacToe\TicTacToe.cpp(9,6): warning C4101: "ticTacToeArray": lokalna zmienna, do której nie istnieje odwołanie
+  TicTacToe.vcxproj -> D:\Microsoft Visual Studio\projekty\TicTacToe\x64\Debug\TicTacToe.exe
