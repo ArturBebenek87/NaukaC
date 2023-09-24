@@ -1,0 +1,3 @@
+﻿  referencjaDoNieistniejacegoObiektu.cpp
+D:\Microsoft Visual Studio\projekty\referencjaDoNieistniejacegoObiektu\referencjaDoNieistniejacegoObiektu\referencjaDoNieistniejacegoObiektu.cpp(21): warning C4172: zwracanie adresu lokalnej zmiennej lub tymczasowej: nLocalInt
+  referencjaDoNieistniejacegoObiektu.vcxproj -> D:\Microsoft Visual Studio\projekty\referencjaDoNieistniejacegoObiektu\x64\Debug\referencjaDoNieistniejacegoObiektu.exe
