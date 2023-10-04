@@ -1,0 +1,3 @@
+﻿  prosteDziedziczenie.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: nierozpoznany symbol zewnętrzny main przywołany w funkcji "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\Microsoft Visual Studio\projekty\prosteDziedziczenie\x64\Debug\prosteDziedziczenie.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 1
